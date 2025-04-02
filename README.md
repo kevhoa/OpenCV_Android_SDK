@@ -1,2 +1,2 @@
 # OpenCV_Android_SDK
-OpencvCV Android SDK compiled with contribs
+OpencvCV Android SDK v4.10 compiled with contribs
